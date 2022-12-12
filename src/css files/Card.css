@@ -1,0 +1,26 @@
+button {
+    transition: 0.3s !important;
+  }
+  
+  a {
+    text-decoration: none !important;
+    font-weight: bold;
+  }
+  
+  .card:hover {
+    box-shadow: 0px 5px 10px 10px #d1d2d4;
+    transition: 0.3s;
+  }
+  
+  .imgTrash{
+      padding: 0 !important;
+      margin: 0 !important;
+      
+  }
+  
+  .btnTrash{
+      height: 38px !important;
+      width: 38px !important;
+      padding-left: 6px !important;
+      padding-top: 4px !important;
+  }
